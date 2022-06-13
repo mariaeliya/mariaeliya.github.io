@@ -30,7 +30,7 @@
 
   // branch.setIdentity("suuid", (err) => console.error(err));
 
-  branch.init('key_live_kaxcEcBIoOHeFuJaHLsifdbkEuiLAvEY', 
+  branch.init('key_live_lbYqw05lnGenyN81o1ENeikhzshdUzyO', 
 
 	{
 
@@ -272,7 +272,7 @@
 
 </script>
 
-<title>Tarek's Test Site</title>
+<title>Maria's Test Site</title>
 
 
 
@@ -298,7 +298,7 @@
 
       <div class="row col-lg-8 col-lg-offset-2">
 
-      <h2>Tarek's Test Site</h2>
+      <h2>Maria's Test Site</h2>
 
     </div>
 
